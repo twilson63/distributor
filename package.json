@@ -1,0 +1,18 @@
+{
+  "name": "distributor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.14.1",
+    "follow": "^0.12.1",
+    "pull-notify": "^0.1.1",
+    "pull-stream": "^3.5.0",
+    "request": "^2.79.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
